@@ -293,6 +293,14 @@
 .icon-upload-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;&nbsp;'); }
 .icon-upload-cloud-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;&nbsp;'); }
 .icon-upload-5 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;&nbsp;'); }
+.icon-off { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;&nbsp;'); }
+.icon-power { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;&nbsp;'); }
+.icon-coffee { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;&nbsp;'); }
+.icon-volume-off-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;&nbsp;'); }
+.icon-volume-off-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91f;&nbsp;'); }
+.icon-eye-off-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe920;&nbsp;'); }
+.icon-volume-off-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe921;&nbsp;'); }
+.icon-off-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe922;&nbsp;'); }
 .icon-upload-cloud-4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf014;&nbsp;'); }
 .icon-download-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf02e;&nbsp;'); }
 .icon-upload-4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf02f;&nbsp;'); }

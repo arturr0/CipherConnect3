@@ -282,6 +282,14 @@
 .icon-upload-3:before { content: '\e918'; } /* '' */
 .icon-upload-cloud-3:before { content: '\e919'; } /* '' */
 .icon-upload-5:before { content: '\e91a'; } /* '' */
+.icon-off:before { content: '\e91b'; } /* '' */
+.icon-power:before { content: '\e91c'; } /* '' */
+.icon-coffee:before { content: '\e91d'; } /* '' */
+.icon-volume-off-1:before { content: '\e91e'; } /* '' */
+.icon-volume-off-2:before { content: '\e91f'; } /* '' */
+.icon-eye-off-1:before { content: '\e920'; } /* '' */
+.icon-volume-off-3:before { content: '\e921'; } /* '' */
+.icon-off-1:before { content: '\e922'; } /* '' */
 .icon-upload-cloud-4:before { content: '\f014'; } /* '' */
 .icon-download-1:before { content: '\f02e'; } /* '' */
 .icon-upload-4:before { content: '\f02f'; } /* '' */
