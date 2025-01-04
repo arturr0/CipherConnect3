@@ -1879,16 +1879,16 @@
       "src": "typicons"
     },
     {
-      "uid": "05ef9b5e8742971aa85b23cfcbe71594",
-      "css": "users-3",
-      "code": 61540,
-      "src": "mfglabs"
-    },
-    {
       "uid": "8d40bca7a7f11091ca865e07535fcc47",
       "css": "group-circled",
       "code": 59649,
       "src": "elusive"
+    },
+    {
+      "uid": "05ef9b5e8742971aa85b23cfcbe71594",
+      "css": "users-3",
+      "code": 61540,
+      "src": "mfglabs"
     }
   ]
 }
