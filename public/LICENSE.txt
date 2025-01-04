@@ -1,13 +1,22 @@
 Font license info
 
 
-## MFG Labs
+## Entypo
 
    Copyright (C) 2012 by Daniel Bruce
 
-   Author:    MFG Labs
+   Author:    Daniel Bruce
    License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://www.mfglabs.com/
+   Homepage:  http://www.entypo.com
+
+
+## Iconic
+
+   Copyright (C) 2012 by P.J. Onori
+
+   Author:    P.J. Onori
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  http://somerandomdude.com/work/iconic/
 
 
 ## Elusive
@@ -17,15 +26,6 @@ Font license info
    Author:    Aristeides Stathopoulos
    License:   SIL (http://scripts.sil.org/OFL)
    Homepage:  http://aristeides.com/
-
-
-## Typicons
-
-   (c) Stephen Hutchings 2012
-
-   Author:    Stephen Hutchings
-   License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://typicons.com/
 
 
 ## Font Awesome
@@ -46,49 +46,13 @@ Font license info
    Homepage:  http://thedesignoffice.org/project/modern-pictograms/
 
 
-## Entypo
+## Typicons
 
-   Copyright (C) 2012 by Daniel Bruce
+   (c) Stephen Hutchings 2012
 
-   Author:    Daniel Bruce
+   Author:    Stephen Hutchings
    License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://www.entypo.com
-
-
-## Fontelico
-
-   Copyright (C) 2012 by Fontello project
-
-   Author:    Crowdsourced, for Fontello project
-   License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://fontello.com
-
-
-## Iconic
-
-   Copyright (C) 2012 by P.J. Onori
-
-   Author:    P.J. Onori
-   License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://somerandomdude.com/work/iconic/
-
-
-## Maki
-
-   Copyright (C) Mapbox, LCC
-
-   Author:    Mapbox
-   License:   BSD (https://github.com/mapbox/maki/blob/gh-pages/LICENSE.txt)
-   Homepage:  http://mapbox.com/maki/
-
-
-## Zocial
-
-   Copyright (C) 2012 by Sam Collins
-
-   Author:    Sam Collins
-   License:   MIT (http://opensource.org/licenses/mit-license.php)
-   Homepage:  http://zocial.smcllns.com/
+   Homepage:  http://typicons.com/
 
 
 ## Linecons
@@ -100,12 +64,48 @@ Font license info
    Homepage:  http://designmodo.com/linecons-free/
 
 
-## Web Symbols
+## Maki
 
-   Copyright (c) 2011 by Just Be Nice studio. All rights reserved.
+   Copyright (C) Mapbox, LCC
 
-   Author:    Just Be Nice studio
+   Author:    Mapbox
+   License:   BSD (https://github.com/mapbox/maki/blob/gh-pages/LICENSE.txt)
+   Homepage:  http://mapbox.com/maki/
+
+
+## Fontelico
+
+   Copyright (C) 2012 by Fontello project
+
+   Author:    Crowdsourced, for Fontello project
    License:   SIL (http://scripts.sil.org/OFL)
-   Homepage:  http://www.justbenicestudio.com/
+   Homepage:  http://fontello.com
+
+
+## Zocial
+
+   Copyright (C) 2012 by Sam Collins
+
+   Author:    Sam Collins
+   License:   MIT (http://opensource.org/licenses/mit-license.php)
+   Homepage:  http://zocial.smcllns.com/
+
+
+## MFG Labs
+
+   Copyright (C) 2012 by Daniel Bruce
+
+   Author:    MFG Labs
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  http://www.mfglabs.com/
+
+
+## Brandico
+
+   (C) 2012 by Vitaly Puzrin
+
+   Author:    Crowdsourced, for Fontello project
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  
 
 
